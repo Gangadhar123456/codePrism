@@ -1,0 +1,14 @@
+.header {
+  background-color: aquamarine;
+  height: 150px;
+  width: 100%;
+  font-family: 'Roboto';
+  padding-top: 30px;
+  border-radius: 10px;
+}
+.container {
+  background-color: navajowhite;
+  height: 100vh;
+  background-size: cover;
+  padding: 10px;
+}
